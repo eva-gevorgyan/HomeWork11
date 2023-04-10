@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\bin\Debug\net6.0\UsersReg.exe
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\bin\Debug\net6.0\UsersReg.deps.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\bin\Debug\net6.0\UsersReg.runtimeconfig.json
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\bin\Debug\net6.0\UsersReg.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\bin\Debug\net6.0\UsersReg.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\obj\Debug\net6.0\UsersReg.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\obj\Debug\net6.0\UsersReg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\obj\Debug\net6.0\UsersReg.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\obj\Debug\net6.0\UsersReg.AssemblyInfo.cs
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\obj\Debug\net6.0\UsersReg.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\obj\Debug\net6.0\UsersReg.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\obj\Debug\net6.0\refint\UsersReg.dll
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\obj\Debug\net6.0\UsersReg.pdb
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\obj\Debug\net6.0\UsersReg.genruntimeconfig.cache
+C:\Users\User.DESKTOP-APSRJKR\source\repos\UsersReg\UsersReg\obj\Debug\net6.0\ref\UsersReg.dll
